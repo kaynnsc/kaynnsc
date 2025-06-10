@@ -6,7 +6,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h1>Hello there! My name is Kay.</h1>
+<h1>.☘︎ ݁˖ Hello there! My name is Khaynan Syaqhilla C.Y.H. ᡣ𐭩.ᐟ</h1>
+<details>
+  <summary>🎯 My Hobbies </summary>
+  
+  - I like playing around, find out new stuff
+  - I'm currently very interested in UI/UX design using Figma
+</details>
 <!---
 kaynnsc/kaynnsc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
